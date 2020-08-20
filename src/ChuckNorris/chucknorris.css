@@ -1,0 +1,87 @@
+@font-face {
+  font-family: 'chucknorris';
+  src: local('chucknorris'), url(./chucknorrisfont.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'blu-plain';
+  src: local('blu-plain'), url(./blu-plain.ttf) format('truetype');
+}
+
+.container {
+	height: 25em;
+	width: 30em;
+	position: relative;
+}
+
+.chuckNorrisFont {
+	font-family: chucknorris;
+	position: absolute;
+	top: 15px;
+}
+
+.innerComponents {
+	width: 20em;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	top: 8em;
+}
+
+.selectCategory {
+	width: 6em;
+	height: 1.7em;
+	background: #ffd88a;
+	font-family: blu-plain;
+	font-size: 20px;
+	padding-left: 1px;
+	text-align: center;
+	border-radius: 4px;
+	border-color: black;
+	border-width: 2px;
+	letter-spacing: 2px;
+}
+
+.norrisButton {
+	height: 1.7em;
+	width: 6em;
+	font-family: blu-plain;
+	text-align: center;
+	color: black;
+	display: table-cell;
+    vertical-align: middle;
+	background: #41c4e8;
+	border-radius: 4px;
+	border-color: black;
+	border-width: 2px;
+	letter-spacing: 2px;
+}
+
+.rollNorris {
+  border: none;
+  height: 200px;
+  width: 400px;
+  font: 16px/1.5 "Courier New", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 1000;
+  letter-spacing: 0.5px;
+  overflow-y: auto;
+  position: absolute;
+  left: 2.5em;
+  bottom: 2em;
+  word-wrap: break-word; /* Add the ability to scroll */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.rollNorris::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+.rollNorris {
+    -ms-overflow-style: none;
+}

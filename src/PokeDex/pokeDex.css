@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'pokedex';
+  src: local('pokedex'), url(./pokedexfont.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'pokemondetails';
+  src: local('pokemondetails'), url(./pokemondetailsfont.ttf) format('truetype');
+}
+
+.pokeContainer {
+	width: 35em;
+	height: 27em;
+	position: relative;
+}
+
+.dropDown {
+	width: 11em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom-left-radius: 8px;
+	border-top-left-radius: 8px;
+	text-align: center;
+	background: #fffd85;
+}
+
+.pokeOption {
+	font: 16px/1.5 "Courier New", Arial, sans-serif;
+	font-size: 15px;
+	font-weight: 1000;
+	letter-spacing: 1px;
+}
+
+.set {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.pokefont {
+	color: yellow;
+	font-family: pokedex;
+	position: absolute;
+	right: 4em;
+	top: 0em;
+}
+
+.PokeRoll {
+  border: none;
+  height: 27em;
+  overflow-y: auto;
+  word-wrap: break-word /* Add the ability to scroll */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.PokeRoll::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE and Edge */
+.PokeRoll {
+    -ms-overflow-style: none;
+}
+
+.pokeImg {
+	height: 200px;
+	width: 200px;
+}
+
+.detailList {
+	display: list-item;
+	line-height: 5px;
+	list-style: none;
+	color: white;
+	text-align: center;
+	padding: 0px;
+}
+
+.pos {
+	position: absolute;
+	right: 5.5em;
+	bottom: 5px;
+}
