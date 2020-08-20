@@ -12,7 +12,7 @@ const PokemonDetails = ({name, id, pokemonType, imgsrc}) => {
 	return(
 		<div>
 			<ul className='pos detailList'>
-				<li className='detailList'><img src={imgsrc} className='pokeImg' /></li>
+				<li className='detailList'><img src={imgsrc} alt="Pokemon" className='pokeImg' /></li>
 				<li className='detailList'><h1>#{id}</h1></li>
 				<li className='detailList'><h2>{name}</h2></li>
 				<li className='detailList'><h3>Pokemon type : </h3></li> 

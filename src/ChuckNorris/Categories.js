@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import '../ChuckNorris/chucknorris.css';
 
 class Categories extends React.Component {

@@ -3,10 +3,6 @@ import './pokeDex.css';
 
 class InputField extends React.Component  {
 
-	constructor(props) {
-		super(props);
-	}
-
 fetchPokemon = () => {
 	  fetch("https://pokeapi.co/api/v2/pokemon?limit=1000")
 	  .then(response => response.json())
