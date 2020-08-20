@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a29cb8f7.chunk.css",
+    "main.js": "/static/js/main.ddb2b1e8.chunk.js",
+    "main.js.map": "/static/js/main.ddb2b1e8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f31e145.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f31e145.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.c6339534.chunk.js": "/static/js/2.c6339534.chunk.js",
+    "static/js/2.c6339534.chunk.js.map": "/static/js/2.c6339534.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.190dbc5072b4a65ea6d9b6b4d9199184.js": "/precache-manifest.190dbc5072b4a65ea6d9b6b4d9199184.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.a29cb8f7.chunk.css.map": "/static/css/main.a29cb8f7.chunk.css.map",
+    "static/js/2.c6339534.chunk.js.LICENSE.txt": "/static/js/2.c6339534.chunk.js.LICENSE.txt",
+    "static/media/chucknorris.css": "/static/media/chucknorrisfont.26327853.ttf",
+    "static/media/pokeDex.css": "/static/media/pokemondetailsfont.831e1f4d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f31e145.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.c6339534.chunk.js",
+    "static/css/main.a29cb8f7.chunk.css",
+    "static/js/main.ddb2b1e8.chunk.js"
+  ]
+}
