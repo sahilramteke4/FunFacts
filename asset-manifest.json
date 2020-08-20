@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.a29cb8f7.chunk.css",
-    "main.js": "/static/js/main.191272bc.chunk.js",
-    "main.js.map": "/static/js/main.191272bc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4f31e145.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4f31e145.js.map",
-    "static/css/2.3b6f1bda.chunk.css": "/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.c6339534.chunk.js": "/static/js/2.c6339534.chunk.js",
-    "static/js/2.c6339534.chunk.js.map": "/static/js/2.c6339534.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d4a669637a7482b103865f2907e48b58.js": "/precache-manifest.d4a669637a7482b103865f2907e48b58.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3b6f1bda.chunk.css.map": "/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.a29cb8f7.chunk.css.map": "/static/css/main.a29cb8f7.chunk.css.map",
-    "static/js/2.c6339534.chunk.js.LICENSE.txt": "/static/js/2.c6339534.chunk.js.LICENSE.txt",
-    "static/media/chucknorris.css": "/static/media/chucknorrisfont.26327853.ttf",
-    "static/media/pokeDex.css": "/static/media/pokemondetailsfont.831e1f4d.ttf"
+    "main.css": "/FunFacts/static/css/main.3a4b2cd6.chunk.css",
+    "main.js": "/FunFacts/static/js/main.4534fb07.chunk.js",
+    "main.js.map": "/FunFacts/static/js/main.4534fb07.chunk.js.map",
+    "runtime-main.js": "/FunFacts/static/js/runtime-main.62c659ed.js",
+    "runtime-main.js.map": "/FunFacts/static/js/runtime-main.62c659ed.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/FunFacts/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.c6339534.chunk.js": "/FunFacts/static/js/2.c6339534.chunk.js",
+    "static/js/2.c6339534.chunk.js.map": "/FunFacts/static/js/2.c6339534.chunk.js.map",
+    "index.html": "/FunFacts/index.html",
+    "precache-manifest.cb73eba9baaf77c739092167d56fcbcc.js": "/FunFacts/precache-manifest.cb73eba9baaf77c739092167d56fcbcc.js",
+    "service-worker.js": "/FunFacts/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/FunFacts/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.3a4b2cd6.chunk.css.map": "/FunFacts/static/css/main.3a4b2cd6.chunk.css.map",
+    "static/js/2.c6339534.chunk.js.LICENSE.txt": "/FunFacts/static/js/2.c6339534.chunk.js.LICENSE.txt",
+    "static/media/chucknorris.css": "/FunFacts/static/media/chucknorrisfont.26327853.ttf",
+    "static/media/pokeDex.css": "/FunFacts/static/media/pokemondetailsfont.831e1f4d.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f31e145.js",
+    "static/js/runtime-main.62c659ed.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.c6339534.chunk.js",
-    "static/css/main.a29cb8f7.chunk.css",
-    "static/js/main.191272bc.chunk.js"
+    "static/css/main.3a4b2cd6.chunk.css",
+    "static/js/main.4534fb07.chunk.js"
   ]
 }
